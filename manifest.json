@@ -1,0 +1,15 @@
+{
+  "short_name": "Reminder",
+  "name": "US Embassy Reminder",
+  "icons": [
+    {
+      "src": "favicon-blue.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#1565C0",
+  "background_color": "#1565C0"
+}

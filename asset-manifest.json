@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/us-embassy-reminder/static/css/main.0e14a7bb.css",
+    "main.js": "/us-embassy-reminder/static/js/main.344c25a7.js",
+    "static/js/787.4d1d9c8b.chunk.js": "/us-embassy-reminder/static/js/787.4d1d9c8b.chunk.js",
+    "static/media/start-13691.mp3": "/us-embassy-reminder/static/media/start-13691.b43a86f0cb4d152aba9e.mp3",
+    "static/media/stop-13692.mp3": "/us-embassy-reminder/static/media/stop-13692.37210172330c490b3141.mp3",
+    "index.html": "/us-embassy-reminder/index.html",
+    "main.0e14a7bb.css.map": "/us-embassy-reminder/static/css/main.0e14a7bb.css.map",
+    "main.344c25a7.js.map": "/us-embassy-reminder/static/js/main.344c25a7.js.map",
+    "787.4d1d9c8b.chunk.js.map": "/us-embassy-reminder/static/js/787.4d1d9c8b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0e14a7bb.css",
+    "static/js/main.344c25a7.js"
+  ]
+}
